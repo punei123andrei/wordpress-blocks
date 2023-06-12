@@ -56,7 +56,7 @@ function deactivate_match_wise() {
 }
 
 // includes
-include('init-person.php');
+include 'init-person.php';
 
 
 //Actions
